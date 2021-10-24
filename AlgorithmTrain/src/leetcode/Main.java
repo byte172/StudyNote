@@ -431,22 +431,22 @@ public class Main {
     public static void main(String[] args) {
 
 
-//        TreeNode root = new TreeNode();
-//        root.setValue(3);
-//        TreeNode node1 = new TreeNode();
-//        node1.setValue(4);
-//        root.setLefTreeNode(node1);
-//        TreeNode node2 = new TreeNode();
-//        node2.setValue(6);
-//        root.setRightNode(node2);
-//        node2.setLefTreeNode(new TreeNode(8));
-//        TreeNode node3 = new TreeNode();
-//        node3.setValue(5);
-//        node2.setLefTreeNode(node3);
-//        node3.setRightNode(new TreeNode(2));
-//        node3.getRightNode().setLefTreeNode(new TreeNode(1));
-//
-//        System.out.println(minDepth(root));
+        TreeNode root = new TreeNode();
+        root.setValue(3);
+        TreeNode node1 = new TreeNode();
+        node1.setValue(4);
+        root.setLefTreeNode(node1);
+        TreeNode node2 = new TreeNode();
+        node2.setValue(6);
+        root.setRightNode(node2);
+        node2.setLefTreeNode(new TreeNode(8));
+        TreeNode node3 = new TreeNode();
+        node3.setValue(5);
+        node2.setLefTreeNode(node3);
+        node3.setRightNode(new TreeNode(2));
+        node3.getRightNode().setLefTreeNode(new TreeNode(1));
+
+        System.out.println(minDepth(root));
 //        ArrayList<Integer> list = preorderTraversal(root);
 //
 //
