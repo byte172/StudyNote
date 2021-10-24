@@ -254,7 +254,7 @@
   <component name="RunManager" selected="Application.SignTest (1)">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="面试题.Demo" />
-      <module name="demo" />
+      <module name="AlgorithmTrain" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="面试题.*" />
@@ -267,7 +267,7 @@
     </configuration>
     <configuration name="SignTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TRJN.qutoutiao.SignTest" />
-      <module name="demo" />
+      <module name="AlgorithmTrain" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="TRJN.qutoutiao.*" />
@@ -280,7 +280,7 @@
     </configuration>
     <configuration name="SignTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="qutoutiao.SignTest" />
-      <module name="demo" />
+      <module name="AlgorithmTrain" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="qutoutiao.*" />
@@ -293,13 +293,13 @@
     </configuration>
     <configuration name="sign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="qutoutiao.sign" />
-      <module name="demo" />
+      <module name="AlgorithmTrain" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="demo" />
+      <module name="AlgorithmTrain" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
