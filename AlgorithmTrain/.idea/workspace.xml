@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/面试题/Demo2.java" line="114" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4748276-f62a-4d11-ae75-a7003fd94583" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/demo$demo.coverage" NAME="demo Coverage Results" MODIFIED="1602655878380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/qutoutiao" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="295" column="49" lean-forward="true" selection-start-line="295" selection-start-column="49" selection-end-line="295" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fqc_flag</find>
+      <find>fr</find>
+      <find>hj</find>
+      <find>imgPreload</find>
+      <find>key</find>
+      <find>is_origin_new</find>
+      <find>lat</find>
+      <find>like</find>
+      <find>lon</find>
+      <find>member_id</find>
+      <find>network</find>
+      <find>nocomment</find>
+      <find>&amp;p</find>
+      <find>rec_native</find>
+      <find>reward_enabled</find>
+      <find>screen_width</find>
+      <find>scrollReport</find>
+      <find>showCoinTips</find>
+      <find>skip_ad</find>
+      <find>static_url</find>
+      <find>time</find>
+      <find>trackId</find>
+      <find>uuid</find>
+      <find>&amp;v</find>
+      <find>version</find>
+      <find>vn</find>
+      <find>zmtgz</find>
+      <find>keywordSource</find>
+      <find>guid</find>
+      <find>maxArea</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>TreeNode</replace>
+      <replace />
+      <replace>DLinkedNode</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="/var/folders/l9/p0cgq_3j2xl465nkz8x1tf440000gn/T/leetcode/editor/cn/[92]反转链表 II.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Main1.java" />
+        <option value="$PROJECT_DIR$/src/面试题/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/面试题/ThreadPoolUtil.java" />
+        <option value="$PROJECT_DIR$/src/面试题/ThreadDemo01.java" />
+        <option value="$PROJECT_DIR$/src/面试题/ReadWriteFIle.java" />
+        <option value="$PROJECT_DIR$/src/数据结构/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/数据结构/demo.java" />
+        <option value="$PROJECT_DIR$/src/数据结构/Heap.java" />
+        <option value="$PROJECT_DIR$/src/demo/ArrayRowColumnSwap.java" />
+        <option value="$PROJECT_DIR$/src/demo/Calendar.java" />
+        <option value="$PROJECT_DIR$/src/数据结构/Loop.java" />
+        <option value="$PROJECT_DIR$/src/demo/DoubleCheckedLocking.java" />
+        <option value="$PROJECT_DIR$/src/demo/Circle.java" />
+        <option value="$PROJECT_DIR$/src/demo/lambda.java" />
+        <option value="$PROJECT_DIR$/src/面试题/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/demo/MyCallable.java" />
+        <option value="$PROJECT_DIR$/src/面试题/Demo.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/sign.java" />
+        <option value="$PROJECT_DIR$/src/d.java" />
+        <option value="$PROJECT_DIR$/src/o.java" />
+        <option value="$PROJECT_DIR$/src/Beat.java" />
+        <option value="$PROJECT_DIR$/src/natives.java" />
+        <option value="$PROJECT_DIR$/src/util.java" />
+        <option value="$PROJECT_DIR$/src/test1.java" />
+        <option value="$PROJECT_DIR$/src/b.java" />
+        <option value="$PROJECT_DIR$/src/g.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/demo.py" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/md5.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/jifen/d.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/hook.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/http/a.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/sign.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/test/sign.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/test/d.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/MD5Utils.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/g.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/jifen/a.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/MethodTrampoline.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/d.java" />
+        <option value="$PROJECT_DIR$/src/com/jifen/qukan/patch/d.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/NativeUtils.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/NameValueUtils.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/MethodBeat.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/c.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/o.java" />
+        <option value="$PROJECT_DIR$/src/qutoutiao/SignTest.java" />
+        <option value="$PROJECT_DIR$/src/TRJN/qutoutiao/SignTest.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Main.java" />
+        <option value="/var/folders/l9/p0cgq_3j2xl465nkz8x1tf440000gn/T/leetcode/editor/cn/[11]盛最多水的容器.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1680" />
+    <option name="height" value="966" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mainStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mainStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mainStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mainStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mainStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604312252054" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/leetcode" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/spring-projects/spring-framework.git" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/qutoutiao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="数据结构" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="面试题" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SignTest (1)">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试题.Demo" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TRJN.qutoutiao.SignTest" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TRJN.qutoutiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qutoutiao.SignTest" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qutoutiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qutoutiao.sign" />
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/qutoutiao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/qutoutiao/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="chatting-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="chatting-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="chatting-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="chatting-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SignTest (1)" />
+        <item itemvalue="Application.SignTest" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Application.sign" />
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4748276-f62a-4d11-ae75-a7003fd94583" name="Default Changelist" comment="" />
+      <created>1579925021197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579925021197</updated>
+      <workItem from="1579925026214" duration="7659000" />
+      <workItem from="1580181036548" duration="75000" />
+      <workItem from="1580181128352" duration="648000" />
+      <workItem from="1580187481777" duration="6000" />
+      <workItem from="1580225794997" duration="355000" />
+      <workItem from="1580267097754" duration="900000" />
+      <workItem from="1580364523606" duration="22000" />
+      <workItem from="1580641799226" duration="927000" />
+      <workItem from="1580693449924" duration="136000" />
+      <workItem from="1580697270744" duration="1646000" />
+      <workItem from="1580874917018" duration="15000" />
+      <workItem from="1581307063682" duration="4553000" />
+      <workItem from="1581332897946" duration="14000" />
+      <workItem from="1581335013058" duration="5336000" />
+      <workItem from="1581474150763" duration="20000" />
+      <workItem from="1581567314045" duration="13772000" />
+      <workItem from="1581656257181" duration="14291000" />
+      <workItem from="1581732402595" duration="20166000" />
+      <workItem from="1582102745415" duration="4750000" />
+      <workItem from="1582348332050" duration="1976000" />
+      <workItem from="1582351225583" duration="1877000" />
+      <workItem from="1582513302440" duration="640000" />
+      <workItem from="1582514135716" duration="3451000" />
+      <workItem from="1582610949608" duration="38000" />
+      <workItem from="1582611006167" duration="990000" />
+      <workItem from="1582612124833" duration="807000" />
+      <workItem from="1582950442274" duration="2888000" />
+      <workItem from="1582956482984" duration="478000" />
+      <workItem from="1583229290398" duration="1313000" />
+      <workItem from="1583233301967" duration="3719000" />
+      <workItem from="1583301118561" duration="135000" />
+      <workItem from="1583380872269" duration="4444000" />
+      <workItem from="1584343373193" duration="2690000" />
+      <workItem from="1584365177076" duration="239000" />
+      <workItem from="1584416523730" duration="2465000" />
+      <workItem from="1584605707127" duration="5041000" />
+      <workItem from="1584710189791" duration="3382000" />
+      <workItem from="1585716728537" duration="1088000" />
+      <workItem from="1585802077328" duration="4784000" />
+      <workItem from="1585835716275" duration="5683000" />
+      <workItem from="1586009877414" duration="942000" />
+      <workItem from="1586059051492" duration="1516000" />
+      <workItem from="1586267210545" duration="1201000" />
+      <workItem from="1586309898893" duration="99000" />
+      <workItem from="1586316853674" duration="177000" />
+      <workItem from="1586319956099" duration="1140000" />
+      <workItem from="1587377300702" duration="234000" />
+      <workItem from="1587612308330" duration="639000" />
+      <workItem from="1587889018716" duration="2125000" />
+      <workItem from="1587908690561" duration="9000" />
+      <workItem from="1587960021262" duration="260000" />
+      <workItem from="1587972815200" duration="1634000" />
+      <workItem from="1588048257761" duration="773000" />
+      <workItem from="1588058079238" duration="133000" />
+      <workItem from="1588086249210" duration="172000" />
+      <workItem from="1588144023944" duration="273000" />
+      <workItem from="1588144329874" duration="9000" />
+      <workItem from="1588149166700" duration="1668000" />
+      <workItem from="1588231620298" duration="958000" />
+      <workItem from="1588237158540" duration="3359000" />
+      <workItem from="1588735371421" duration="412000" />
+      <workItem from="1588750457201" duration="4763000" />
+      <workItem from="1588837595180" duration="27000" />
+      <workItem from="1588838378736" duration="1938000" />
+      <workItem from="1588904095050" duration="2548000" />
+      <workItem from="1588923606615" duration="800000" />
+      <workItem from="1588927917370" duration="2826000" />
+      <workItem from="1589009362884" duration="97000" />
+      <workItem from="1589096701647" duration="3884000" />
+      <workItem from="1589252740864" duration="3010000" />
+      <workItem from="1589297368124" duration="397000" />
+      <workItem from="1589350824904" duration="1578000" />
+      <workItem from="1589361880828" duration="2559000" />
+      <workItem from="1589423580281" duration="4480000" />
+      <workItem from="1589445046175" duration="483000" />
+      <workItem from="1589513393169" duration="3343000" />
+      <workItem from="1589609325218" duration="3794000" />
+      <workItem from="1589617487535" duration="93000" />
+      <workItem from="1589784054416" duration="3996000" />
+      <workItem from="1589797664780" duration="860000" />
+      <workItem from="1589814457270" duration="3014000" />
+      <workItem from="1589899212240" duration="3866000" />
+      <workItem from="1589941854648" duration="434000" />
+      <workItem from="1589942358491" duration="1277000" />
+      <workItem from="1589954886751" duration="424000" />
+      <workItem from="1589970701899" duration="3503000" />
+      <workItem from="1589984869390" duration="46000" />
+      <workItem from="1589984919922" duration="11000" />
+      <workItem from="1590150842095" duration="927000" />
+      <workItem from="1590402231131" duration="2142000" />
+      <workItem from="1590465647225" duration="48000" />
+      <workItem from="1590665056176" duration="6065000" />
+      <workItem from="1590987637353" duration="388000" />
+      <workItem from="1591075044253" duration="2731000" />
+      <workItem from="1591148589997" duration="137000" />
+      <workItem from="1591160163562" duration="2895000" />
+      <workItem from="1591176367305" duration="1046000" />
+      <workItem from="1591182417140" duration="620000" />
+      <workItem from="1591247453184" duration="678000" />
+      <workItem from="1591282243074" duration="2030000" />
+      <workItem from="1591424995197" duration="4065000" />
+      <workItem from="1592190911095" duration="589000" />
+      <workItem from="1592715610747" duration="7289000" />
+      <workItem from="1592820819203" duration="2674000" />
+      <workItem from="1592902281289" duration="4246000" />
+      <workItem from="1593165254077" duration="5999000" />
+      <workItem from="1593243365108" duration="8231000" />
+      <workItem from="1594626779495" duration="10968000" />
+      <workItem from="1594715847758" duration="25000" />
+      <workItem from="1594720182273" duration="4459000" />
+      <workItem from="1594871633373" duration="9000" />
+      <workItem from="1594871652887" duration="4132000" />
+      <workItem from="1594888725686" duration="96000" />
+      <workItem from="1594951845836" duration="1544000" />
+      <workItem from="1594953643574" duration="2394000" />
+      <workItem from="1595164355122" duration="7396000" />
+      <workItem from="1595298056321" duration="227000" />
+      <workItem from="1595298304632" duration="265000" />
+      <workItem from="1597134358806" duration="606000" />
+      <workItem from="1597660740163" duration="237000" />
+      <workItem from="1597741047703" duration="5620000" />
+      <workItem from="1597810620588" duration="8455000" />
+      <workItem from="1597895671092" duration="558000" />
+      <workItem from="1597896705416" duration="11000" />
+      <workItem from="1597913397103" duration="2161000" />
+      <workItem from="1598004336748" duration="3602000" />
+      <workItem from="1598008410116" duration="677000" />
+      <workItem from="1598435631805" duration="4823000" />
+      <workItem from="1599029221483" duration="5406000" />
+      <workItem from="1599127411164" duration="2085000" />
+      <workItem from="1599129846470" duration="791000" />
+      <workItem from="1599130837018" duration="900000" />
+      <workItem from="1599138784413" duration="48000" />
+      <workItem from="1599138855312" duration="1677000" />
+      <workItem from="1599142229182" duration="692000" />
+      <workItem from="1599211138091" duration="5276000" />
+      <workItem from="1599287897394" duration="1285000" />
+      <workItem from="1599380532861" duration="4613000" />
+      <workItem from="1599487122587" duration="4938000" />
+      <workItem from="1599573593845" duration="3602000" />
+      <workItem from="1599630777239" duration="2253000" />
+      <workItem from="1599643566525" duration="4569000" />
+      <workItem from="1599731064509" duration="15891000" />
+      <workItem from="1599992608691" duration="3977000" />
+      <workItem from="1600002307592" duration="3384000" />
+      <workItem from="1600071130186" duration="5014000" />
+      <workItem from="1600077794949" duration="1564000" />
+      <workItem from="1600166903658" duration="603000" />
+      <workItem from="1600179850362" duration="7261000" />
+      <workItem from="1600243619049" duration="6385000" />
+      <workItem from="1600330697635" duration="7632000" />
+      <workItem from="1600354326298" duration="1117000" />
+      <workItem from="1600410929456" duration="2901000" />
+      <workItem from="1600422963633" duration="525000" />
+      <workItem from="1600424908377" duration="14159000" />
+      <workItem from="1600571600526" duration="13346000" />
+      <workItem from="1600597230855" duration="7000" />
+      <workItem from="1600771625720" duration="2660000" />
+      <workItem from="1600847751166" duration="1397000" />
+      <workItem from="1600914111836" duration="330000" />
+      <workItem from="1600927050866" duration="199000" />
+      <workItem from="1600940578220" duration="567000" />
+      <workItem from="1601107369969" duration="1729000" />
+      <workItem from="1601173546812" duration="2872000" />
+      <workItem from="1601195602892" duration="2704000" />
+      <workItem from="1601201018135" duration="1402000" />
+      <workItem from="1601350506771" duration="57000" />
+      <workItem from="1601446763216" duration="298000" />
+      <workItem from="1601447206126" duration="8066000" />
+      <workItem from="1602039363804" duration="19599000" />
+      <workItem from="1602071133578" duration="19005000" />
+      <workItem from="1602225194311" duration="154000" />
+      <workItem from="1602331978341" duration="879000" />
+      <workItem from="1602597980389" duration="13902000" />
+      <workItem from="1602665836604" duration="16024000" />
+      <workItem from="1602771918508" duration="461000" />
+      <workItem from="1602777367495" duration="19000" />
+      <workItem from="1603089885676" duration="6057000" />
+      <workItem from="1603265641360" duration="2342000" />
+      <workItem from="1603360747829" duration="67000" />
+      <workItem from="1603433636034" duration="465000" />
+      <workItem from="1603439406369" duration="6637000" />
+      <workItem from="1603546153206" duration="313000" />
+      <workItem from="1604026470456" duration="77000" />
+      <workItem from="1604312125264" duration="130000" />
+      <workItem from="1604386576351" duration="46000" />
+      <workItem from="1605503213417" duration="17000" />
+      <workItem from="1605513569174" duration="44000" />
+      <workItem from="1605521678491" duration="4000" />
+      <workItem from="1606895548216" duration="43000" />
+      <workItem from="1607064448533" duration="2000" />
+      <workItem from="1609299358722" duration="68000" />
+      <workItem from="1619156848651" duration="55000" />
+      <workItem from="1634886394480" duration="87000" />
+      <workItem from="1634887085995" duration="1011000" />
+      <workItem from="1634888345955" duration="100000" />
+      <workItem from="1634896245563" duration="853000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="538911000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1680" height="966" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.07440476" weight="0.26772615" />
+      <window_info id="Structure" order="1" sideWeight="0.9255952" side_tool="true" weight="0.25427872" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.7067669" side_tool="true" weight="0.23992674" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3275862" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49816626" weight="0.3622449" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49938875" weight="0.38251987" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32857144" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32857144" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061125" side_tool="true" weight="0.2508513" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49938875" weight="0.21632653" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.32959184" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3294621" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32951653" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="SciView" order="9" sideWeight="0.49884793" weight="0.3294621" />
+      <window_info anchor="right" id="Word Book" order="10" side_tool="true" weight="0.3294621" />
+      <window_info anchor="right" id="Translation Assistant" order="11" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="leetcode" order="12" sideWeight="0.5011521" side_tool="true" weight="0.3294621" />
+      <window_info anchor="right" id="BPMNPalette" order="13" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.07440476" visible="true" weight="0.26772615" />
+      <window_info id="Structure" order="1" sideWeight="0.9255952" side_tool="true" weight="0.25427872" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.7067669" side_tool="true" weight="0.23992674" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3275862" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49816626" weight="0.3622449" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49938875" weight="0.38251987" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32857144" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32857144" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061125" side_tool="true" weight="0.2508513" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49938875" weight="0.21632653" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.32959184" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3294621" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32951653" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="SciView" order="9" sideWeight="0.49884793" weight="0.3294621" />
+      <window_info anchor="right" id="Word Book" order="10" side_tool="true" weight="0.3294621" />
+      <window_info anchor="right" id="Translation Assistant" order="11" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="leetcode" order="12" sideWeight="0.5011521" side_tool="true" weight="0.3294621" />
+      <window_info anchor="right" id="BPMNPalette" order="13" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数据结构/BinaryTree.java</url>
+          <line>260</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/面试题/Demo.java</url>
+          <line>362</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Solution.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数据结构/demo.java</url>
+          <line>311</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Main.java</url>
+          <line>456</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Main.java</url>
+          <line>476</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数据结构/BinaryTree.java</url>
+          <line>266</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/面试题/Demo.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Main.java</url>
+          <line>422</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Main1.java</url>
+          <line>182</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Main1.java</url>
+          <line>1020</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Main1.java</url>
+          <line>1071</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Main1.java</url>
+          <line>1110</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Main1.java</url>
+          <line>1155</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Main1.java</url>
+          <line>1315</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/LRUCache.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/LRUCache.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数据结构/BinaryTree.java</url>
+          <line>256</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数据结构/demo.java</url>
+          <line>285</line>
+          <properties />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/src/qutoutiao/classes-dex2jar.jar!/com/jifen/qukan/utils/o.class</url>
+          <line>299</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qutoutiao/o.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qutoutiao/SignTest.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/md5.java" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/MD5Utils.java" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/Beat.java" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/g.java" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/util.java" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/test/d.java" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/jifen/a.java" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/jifen/d.java" />
+    <entry file="jar://$PROJECT_DIR$/src/qutoutiao/classes-dex2jar.jar!/com/jifen/qukan/patch/d.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/lang/Void.java" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/MethodTrampoline.java" />
+    <entry file="jar://$PROJECT_DIR$/src/qutoutiao/classes-dex2jar.jar!/com/jifen/qukan/patch/MethodTrampoline.class" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/NameValueUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/d.java" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/NativeUtils.java" />
+    <entry file="jar://$PROJECT_DIR$/src/qutoutiao/android.jar!/android/util/Base64.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/List.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/com/sun/org/apache/xerces/internal/impl/dv/util/Base64.java" />
+    <entry file="jar://$PROJECT_DIR$/src/qutoutiao/classes-dex2jar.jar!/com/inno/innosdk/utils/o.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/security/MessageDigest.java" />
+    <entry file="jar://$PROJECT_DIR$/src/qutoutiao/classes-dex2jar.jar!/com/qtt/perfmonitor/trace/core/MethodBeat.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/lang/System.java" />
+    <entry file="jar://$PROJECT_DIR$/src/qutoutiao/classes-dex2jar.jar!/c/o.class" />
+    <entry file="jar://$PROJECT_DIR$/src/qutoutiao/classes-dex2jar.jar!/c/f.class" />
+    <entry file="jar://$PROJECT_DIR$/src/qutoutiao/classes-dex2jar.jar!/com/jifen/framework/http/napi/util/d.class" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/o.java" />
+    <entry file="jar://$PROJECT_DIR$/src/qutoutiao/classes-dex2jar.jar!/com/jifen/framework/core/b/c.class" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/c.java" />
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/MethodBeat.java" />
+    <entry file="jar://$PROJECT_DIR$/src/qutoutiao/classes-dex2jar.jar!/com/jifen/qukan/utils/o.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
+    <entry file="jar://$PROJECT_DIR$/src/qutoutiao/classes-dex2jar.jar!/com/inno/innosdk/utils/NativeUtils.class" />
+    <entry file="jar://$PROJECT_DIR$/src/qutoutiao/classes-dex2jar.jar!/com/jifen/framework/core/utils/NameValueUtils.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/jifen/qukan/patch/d.java" />
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qutoutiao/SignTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/TRJN/qutoutiao/SignTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/demo/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo/DoubleCheckedLocking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数据结构/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/l9/p0cgq_3j2xl465nkz8x1tf440000gn/T/leetcode/editor/cn/[1]两数之和.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///var/folders/l9/p0cgq_3j2xl465nkz8x1tf440000gn/T/leetcode/editor/cn/doc/sheng-zui-duo-shui-de-rong-qi-by-leetcode-solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/l9/p0cgq_3j2xl465nkz8x1tf440000gn/T/leetcode/editor/cn/doc/container-with-most-water-shuang-zhi-zhen-fa-yi-do.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/PeekingIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="1455" column="49" selection-start-line="1455" selection-start-column="49" selection-end-line="1455" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/l9/p0cgq_3j2xl465nkz8x1tf440000gn/T/leetcode/editor/cn/[11]盛最多水的容器.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="59" column="23" lean-forward="true" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="295" column="49" lean-forward="true" selection-start-line="295" selection-start-column="49" selection-end-line="295" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>classes-dex2jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
